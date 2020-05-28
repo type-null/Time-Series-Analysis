@@ -6,7 +6,7 @@ Mainly reference: "[Practical Time Series Analysis](https://clio.columbia.edu/ca
 
 ### Chapter 1: [Introduction to Time Series](1-Introduction-to-Time-Series.ipynb)
 
-1. Different Types of Data
+1. Different types of data
 >- Cross-sectional data
 >- Time series data
 >- Panel data
@@ -16,8 +16,8 @@ Mainly reference: "[Practical Time Series Analysis](https://clio.columbia.edu/ca
 >- Seasonality
 >    - Run sequence plot
 >    - Seasonal sub series plot
->    - Multiple box plots 30
->- Cyclical changes 31
+>    - Multiple box plots
+>- Cyclical changes
 >- Unexpected variations
 
 3. Models for time series analysis
