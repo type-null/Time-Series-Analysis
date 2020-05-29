@@ -14,9 +14,10 @@ I found this [coursera course](https://www.coursera.org/learn/practical-time-ser
 # Obsolete topics
 \*_TS models and methods are poorly introduced in this book._
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/61NyEnG9fgL.jpg" width=100 align="right" alt="Practical Time Series Analysis by Aileen Nielsen"/>
+
 Mainly reference: "[Practical Time Series Analysis](https://clio.columbia.edu/catalog/13726036)" (2017) and its [github repo](https://github.com/PacktPublishing/Practical-Time-Series-Analysis).
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61NyEnG9fgL.jpg" width=100 align="right" alt="Practical Time Series Analysis by Aileen Nielsen"/>
 
 ## Table of Contents
 
